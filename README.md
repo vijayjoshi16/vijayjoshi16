@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello world 👋, I am Vijay Joshi!</h1>
 
-<h2 align="center">I'm a Web Developer , Competitive Programmer (CodeChef 4⭐) and an Android App developer from India.I'm also a Machine Leraning Enthusiast.</h2>
+<h2 align="center">I'm a Web Developer , Competitive Programmer (CodeChef 4⭐) and an Android App developer from India.I'm also a Machine Learning Enthusiast.</h2>
 
 - 🔭 I’m currently working on ML Diagnostic project
 - 🌱 I’m currently learning MERN Stack
