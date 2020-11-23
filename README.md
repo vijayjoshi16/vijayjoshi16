@@ -5,9 +5,9 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I’m currently working on ML Diagnostic project
-- 🌱 I’m currently learning MERN Stack
-- 👋I’m looking to collaborate on Android Development and Web development projects
+- 🔭 I’m currently learning MERN Stack
+- 🌱 I'm working on various Web Development Projects
+- 👋 I’m looking to collaborate on Android Development and Web development projects
 
 
 [![Viay's github stats](https://github-readme-stats.vercel.app/api?username=vijayjoshi16&show_icons=true&theme=react)](https://github.com/vijayjoshi16/github-readme-stats)
