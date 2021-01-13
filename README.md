@@ -11,9 +11,9 @@
 
 
 [![Viay's github stats](https://github-readme-stats.vercel.app/api?username=vijayjoshi16&show_icons=true&theme=react)](https://github.com/vijayjoshi16/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijayjoshi16&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayjoshi16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijayjoshi16&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 <h2>Feel free to contact me and connect with me:</h2>
