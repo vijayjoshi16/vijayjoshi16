@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I’m currently learning MERN Stack
+- 🔭 I’m currently learning Flutter
 - 🌱 I'm working on various Web Development Projects
 - 👋 I’m looking to collaborate on Android Development and Web development projects
 
@@ -16,7 +16,7 @@
 
 
 
-<h2>Feel free to contact me and connect with me:</h2>
+<h2> 😃 Feel free to contact me and connect with me:</h2>
 <span>
 <a href="https://in.linkedin.com/in/vijay-joshi-80221a193">
 <img
