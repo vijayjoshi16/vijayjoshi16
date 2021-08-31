@@ -28,6 +28,12 @@ src="https://avatars1.githubusercontent.com/u/11960354?s=460&u=a77c97db3237e61ac
 </a>
 <a href="https://codeforces.com/profile/vijay_joshi"><img
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" width="50px"/>
+</a> 
+<a href="https://leetcode.com/vijay_joshi16/"><img
+src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/joshivijay324/practice/"><img
+src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" width="50px"/>
 </a>
 <a href="https://www.instagram.com/vijayjoshi802/"><img src="https://camo.githubusercontent.com/68ff38b86f01b428567dcc406116e23728245f4e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="50px" />
 </a>
