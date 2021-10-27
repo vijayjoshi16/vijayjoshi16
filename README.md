@@ -3,7 +3,7 @@
 
 <h2 align="center">I'm a Full Stack MERN Web Developer , Competitive Programmer (CodeChef 4⭐) and an Android App developer from India.I'm also a Machine Learning Enthusiast.</h2>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="400">
 
 - 🔭 I’m currently learning Data Structures and Algorithms
 - 🌱 I'm working on various Web Development Projects
@@ -14,7 +14,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayjoshi16&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijayjoshi16&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+<h2 align="center">GitHub Trophies</h2>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vijayjoshi16&theme=onedark&column=4&no-bg=true"></img>
+</div>
 
 <h2 align="center"> Feel free to contact me 😃 and connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"></h2>
 <div align="center">
