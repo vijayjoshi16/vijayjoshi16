@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=vijayjoshi16)
 <h1 align="center">Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vijay Joshi!</h1>
 
-<h2 align="center">I'm a Full Stack MERN Web Developer , Competitive Programmer (CodeChef 4⭐) and an Android App developer from India.I'm also a Machine Learning Enthusiast.</h2>
+<h2 align="center">I'm a Full Stack MERN Web Developer, Competitive Programmer and an Android App developer from India.I'm also a Machine Learning Enthusiast.</h2>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="400">
 
 - 🔭 I’m currently learning Data Structures and Algorithms
 - 🌱 I'm working on various Web Development Projects
-- 👋 I’m looking to collaborate on Android Development and Web development projects
+- 👋 I’m actively looking for internship and full-time opportunities in the domain of Software Engineering/Development
 
 
 [![Viay's github stats](https://github-readme-stats.vercel.app/api?username=vijayjoshi16&show_icons=true&theme=react)](https://github.com/vijayjoshi16/github-readme-stats)
